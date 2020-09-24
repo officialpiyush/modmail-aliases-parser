@@ -1,5 +1,5 @@
 {
-  "name": "@officialpiyush/modmail-aliases-parser",
+  "name": "@piyush-pkg/modmail-aliases-parser",
   "version": "1.0.0",
   "description": "Parse modmail aliases",
   "main": "build/index.js",
